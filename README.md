@@ -50,6 +50,11 @@ I'm Gustavo Honorio, a Frontend Developer passionate about creating modern, resp
 - GitHub: [github.com/GustavoHRdev](https://github.com/GustavoHRdev)  
 
 ---
+## 🔗 Access my Linktree
+
+Check my full Linktree here: [https://gustavohrdev.github.io/Linktree-GHR/](https://gustavohrdev.github.io/Linktree-GHR/)
+
+---
 
 ## 📄 License
 
@@ -107,6 +112,12 @@ Sou Gustavo Honorio, Desenvolvedor Frontend apaixonado por criar interfaces mode
 - Email: [gustavohonorio.GR@gmail.com](mailto:gustavohonorio.GR@gmail.com)  
 - LinkedIn: [linkedin.com/in/gustavohrdev](https://www.linkedin.com/in/gustavohrdev/)  
 - GitHub: [github.com/GustavoHRdev](https://github.com/GustavoHRdev)  
+
+---
+
+## 🔗 Acesse meu Linktree
+
+Veja meu Linktree completo aqui: [https://gustavohrdev.github.io/Linktree-GHR/](https://gustavohrdev.github.io/Linktree-GHR/)
 
 ---
 
