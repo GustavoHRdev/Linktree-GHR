@@ -1,6 +1,10 @@
 # Gustavo Honorio | Frontend Developer
 
+
 ## English Version <a name="english-version"></a>
+=======
+## english-version
+
 
 > Personal hub to share my resume, contacts, and professional profiles — ideal for recruiters and junior developers to know my work.
 
@@ -65,7 +69,11 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
+
 ## Versao PT-BR <a name="versao-pt-br"></a>
+=======
+## versao-pt-br
+
 
 > Hub pessoal para divulgar meu currículo, contatos e perfis profissionais — ideal para recrutadores e desenvolvedores iniciantes conhecerem meu trabalho.
 
