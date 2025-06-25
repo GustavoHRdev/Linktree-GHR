@@ -1,9 +1,5 @@
 # Gustavo Honorio | Frontend Developer
 
-<p align="center">
-  [🇧🇷 Ver em Português](#versao-pt-br) | [🇬🇧 See in English](#english-version)
-</p>
-
 ## English Version <a name="english-version"></a>
 
 > Personal hub to share my resume, contacts, and professional profiles — ideal for recruiters and junior developers to know my work.
