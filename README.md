@@ -1,8 +1,10 @@
 # Gustavo Honorio | Frontend Developer
+
 <p align="center">
   [🇧🇷 Ver em Português](#versao-pt-br) | [🇬🇧 See in English](#english-version)
 </p>
 
+## English Version <a name="english-version"></a>
 
 > Personal hub to share my resume, contacts, and professional profiles — ideal for recruiters and junior developers to know my work.
 
@@ -54,6 +56,7 @@ I'm Gustavo Honorio, a Frontend Developer passionate about creating modern, resp
 - GitHub: [github.com/GustavoHRdev](https://github.com/GustavoHRdev)  
 
 ---
+
 ## 🔗 Access my Linktree
 
 Check my full Linktree here: [https://gustavohrdev.github.io/Linktree-GHR/](https://gustavohrdev.github.io/Linktree-GHR/)
@@ -66,7 +69,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-# Gustavo Honorio | Frontend Developer
+## Versao PT-BR <a name="versao-pt-br"></a>
 
 > Hub pessoal para divulgar meu currículo, contatos e perfis profissionais — ideal para recrutadores e desenvolvedores iniciantes conhecerem meu trabalho.
 
