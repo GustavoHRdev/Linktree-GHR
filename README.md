@@ -4,7 +4,7 @@
   [🇧🇷 Ver em Português](#versao-pt-br) | [🇬🇧 See in English](#english-version)
 </p>
 
-## English Version <a name="english-version"></a>
+## English Version
 
 ---
 
@@ -71,6 +71,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
+
 ## Versao PT-BR <a name="versao-pt-br"></a>
 
 ## 🔗 Acesse meu Linktree
@@ -78,6 +79,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 Veja meu Linktree completo aqui: [https://gustavohrdev.github.io/Linktree-GHR/](https://gustavohrdev.github.io/Linktree-GHR/)
 
 ---
+
+## Versão PT-BR 
 
 > Hub pessoal para divulgar meu currículo, contatos e perfis profissionais — ideal para recrutadores e desenvolvedores iniciantes conhecerem meu trabalho.
 
