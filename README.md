@@ -1,18 +1,18 @@
 # Gustavo Honorio | Frontend Developer
+
+<p align="center">
+  <a href="#versao-pt-br">🇧🇷 Ver em Português</a> | <a href="#english-version">🇬🇧 See in English</a>
+</p>
+
 ---
 
 ## Preview do Projeto
 
 ![Screenshot do Linktree](./assets/printlinktree.jpg)
-<p align="center">
-  [🇧🇷 Ver em Português](#versao-pt-br) | [🇬🇧 See in English](#english-version)
-</p>
-
-[🇧🇷 Ver em Português](#versao-pt-br) | [🇬🇧 See in English](#english-version)
-
-## English Version
 
 ---
+
+## English Version <a name="english-version"></a>
 
 ## 🔗 Access my Linktree
 
@@ -24,60 +24,48 @@ Check my full Linktree here: [https://gustavohrdev.github.io/Linktree-GHR/](http
 
 ---
 
-## 💼 About me
+### 💼 About Me
 
-I'm Gustavo Honorio, a Frontend Developer passionate about creating modern, responsive interfaces with good usability. This linktree gathers my main channels to facilitate contact, resume viewing, and social networks.
-
----
-
-## 🌍 Technologies and Tools
-
-- HTML5, CSS3 (including animations and gradients)  
-- Responsive design with CSS Grid and media queries  
-- Use of SVG for optimized and accessible icons  
+I'm Gustavo Honorio, a Frontend Developer focused on building modern, responsive user interfaces with intuitive UX and clean code.  
+This project serves as a quick-access Linktree to my main professional channels.
 
 ---
 
-## 📋 What do you find here?
+### 🛠️ Technologies
 
-- Resume for download in Portuguese (BR) and English (EN)  
-- LinkedIn for professional networking  
-- Email contact for opportunities  
-- GitHub with my projects and open source code  
-
----
-
-## 🚀 How to use this project?
-
-1. Clone or download the files.  
-2. Open `index.html` in any modern browser.  
-3. Explore the links and get in touch for opportunities or knowledge exchange.
+- HTML5, CSS3 (animations, gradients)  
+- Responsive layouts (CSS Grid, Flexbox, media queries)  
+- SVGs for optimized and accessible icons  
 
 ---
 
-## 🎯 Why this project?
+### 📌 What You'll Find
 
-- Presents my profile clearly and objectively for Brazilian and international recruiters.  
-- Serves as an example for junior developers to understand how to create a simple and functional personal presentation page.  
-- Attractive visual, with subtle animations and modern design that enhance the content.
-
----
-
-## 📞 My contacts
-
-- Email: [gustavohonorio.GR@gmail.com](mailto:gustavohonorio.GR@gmail.com)  
-- LinkedIn: [linkedin.com/in/gustavohrdev](https://www.linkedin.com/in/gustavohrdev/)  
-- GitHub: [github.com/GustavoHRdev](https://github.com/GustavoHRdev)  
+- 📄 Resume (EN & BR)  
+- 💼 LinkedIn profile  
+- 💬 Email contact  
+- 🐙 GitHub with open-source projects  
+- 🌍 Portfolio with animations and responsive UI  
 
 ---
 
-## 📄 License
+### 🔧 How to Use
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+1. Download or clone this repository  
+2. Open `index.html` in any modern browser  
+3. Explore the links and feel free to connect
 
 ---
 
-## Versao PT-BR <a name="versao-pt-br"></a>
+### 📫 Contact
+
+- 📧 Email: [gustavohonorio.GR@gmail.com](mailto:gustavohonorio.GR@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/gustavohrdev](https://www.linkedin.com/in/gustavohrdev/)  
+- 🐙 GitHub: [github.com/GustavoHRdev](https://github.com/GustavoHRdev)
+
+---
+
+## 🇧🇷 Versão PT-BR <a name="versao-pt-br"></a>
 
 ## 🔗 Acesse meu Linktree
 
@@ -85,54 +73,48 @@ Veja meu Linktree completo aqui: [https://gustavohrdev.github.io/Linktree-GHR/](
 
 ---
 
-> Hub pessoal para divulgar meu currículo, contatos e perfis profissionais — ideal para recrutadores e desenvolvedores iniciantes conhecerem meu trabalho.
+> Hub profissional com acesso rápido ao meu currículo, portfólio e redes sociais — ideal para recrutadores e desenvolvedores.
 
 ---
 
-## 💼 Sobre mim
+### 💼 Sobre Mim
 
-Sou Gustavo Honorio, Desenvolvedor Frontend apaixonado por criar interfaces modernas, responsivas e com boa usabilidade. Este linktree reúne meus principais canais para facilitar contato, visualização do meu currículo e redes sociais.
-
----
-
-## 🌍 Tecnologias e Ferramentas
-
-- HTML5, CSS3 (incluindo animações e gradientes)  
-- Design responsivo com CSS Grid e media queries  
-- Uso de SVG para ícones otimizados e acessíveis  
+Sou Gustavo Honorio, Desenvolvedor Frontend apaixonado por criar interfaces modernas, responsivas e com excelente usabilidade.  
+Este projeto é uma Linktree que reúne meus principais canais profissionais.
 
 ---
 
-## 📋 O que você encontra aqui?
+### 🛠️ Tecnologias
 
-- Currículo para download em Português (BR) e Inglês (EN)  
-- LinkedIn para networking profissional  
-- Contato por email para oportunidades  
-- GitHub com meus projetos e código aberto  
-
----
-
-## 🚀 Como usar este projeto?
-
-1. Clone ou baixe os arquivos.  
-2. Abra `index.html` em qualquer navegador moderno.  
-3. Explore os links e entre em contato para oportunidades ou troca de conhecimento.
+- HTML5, CSS3 (animações, gradientes)  
+- Layouts responsivos (CSS Grid, Flexbox, media queries)  
+- Ícones em SVG otimizados e acessíveis  
 
 ---
 
-## 🎯 Por que este projeto?
+### 📌 O Que Você Encontra
 
-- Apresenta meu perfil de forma clara e objetiva para recrutadores brasileiros e internacionais.  
-- Serve de exemplo para desenvolvedores iniciantes entenderem como montar uma página pessoal de apresentação simples e funcional.  
-- Visual atraente, com animações sutis e design moderno que valorizam o conteúdo.
+- 📄 Currículo (BR & EN)  
+- 💼 Perfil no LinkedIn  
+- 💬 Contato por email  
+- 🐙 GitHub com projetos abertos  
+- 🌍 Portfólio com animações e design moderno  
 
 ---
 
-## 📞 Meus contatos
+### 🔧 Como Usar
 
-- Email: [gustavohonorio.GR@gmail.com](mailto:gustavohonorio.GR@gmail.com)  
-- LinkedIn: [linkedin.com/in/gustavohrdev](https://www.linkedin.com/in/gustavohrdev/)  
-- GitHub: [github.com/GustavoHRdev](https://github.com/GustavoHRdev)  
+1. Baixe ou clone este repositório  
+2. Abra o arquivo `index.html` em qualquer navegador moderno  
+3. Explore os links e entre em contato
+
+---
+
+### 📫 Contato
+
+- 📧 Email: [gustavohonorio.GR@gmail.com](mailto:gustavohonorio.GR@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/gustavohrdev](https://www.linkedin.com/in/gustavohrdev/)  
+- 🐙 GitHub: [github.com/GustavoHRdev](https://github.com/GustavoHRdev)
 
 ---
 
